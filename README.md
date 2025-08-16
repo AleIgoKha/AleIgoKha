@@ -1,10 +1,9 @@
-![Header](https://github.com/AleIgoKha/AleIgoKha/blob/main/assets/background.png)
+[![Header](https://github.com/AleIgoKha/AleIgoKha/blob/main/assets/background.png)](www.linkedin.com/in/alexei-harcenco)
 
 ### 👤 About Me
 Hello and welcome to my GitHub profile!
 My name is **Alexei**, and I’m a **Data Analyst** from Moldova.
 Here you’ll find projects where I apply data analysis, visualization, and automation for my own business and while studying.
-
 
 ### 🛠 Tech Stack
 I worked with the following technologies in my projects:
@@ -27,6 +26,8 @@ I worked with the following technologies in my projects:
 ![Docker](https://img.shields.io/badge/-Docker-1d1717?style=for-the-badge&logo=Docker&logoColor=fff6f6)
 ![Alembic](https://img.shields.io/badge/-Alembic-1d1717?style=for-the-badge&logo=Alembic&logoColor=fff6f6)
 
+### 📊 My Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleIgoKha&hide=stars,issues,contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📬 Get in Touch
 You can reach me through the following links:
