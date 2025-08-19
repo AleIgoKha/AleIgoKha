@@ -32,6 +32,5 @@ I worked with the following technologies in my projects:
 ### 📬 Get in Touch
 You can reach me through the following links:
 
-[![Email](https://img.shields.io/badge/-Email-1d1717?style=for-the-badge&logo=Email&logoColor=fff6f6)](mailto:aleigokha.work@gmail.com)
 [![linkedin](https://img.shields.io/badge/-linkedin-1d1717?style=for-the-badge&logo=linkedin&logoColor=fff6f6)](https://www.linkedin.com/in/alexei-harcenco/)
 [![Telegram](https://img.shields.io/badge/-Telegram-1d1717?style=for-the-badge&logo=Telegram&logoColor=fff6f6)](https://t.me/alexeihar/)
